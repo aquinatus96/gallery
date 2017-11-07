@@ -1,0 +1,12 @@
+@media (max-width: 992px) {
+    #gallery .gallery-item {
+        width: 45%;
+    }
+}
+
+@media (max-width: 480px) {
+    #gallery .gallery-item {
+        width: 100%;
+        height: 35vw;
+    }
+}
